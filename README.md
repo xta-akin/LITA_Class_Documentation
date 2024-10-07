@@ -26,20 +26,20 @@ Each project folder includes the corresponding dataset, along with a brief descr
 ### Tools Used
 Throughout the Ladies in Tech Africa (LITA) Data Analytics program, we’ve worked with several essential tools to develop and refine our data analysis skills. These include:
 
-- **Microsoft Excel**: [Download Here]()
+- **Microsoft Excel**: [Download Here](https://gtbank-my.sharepoint.com/:x:/p/esther_akintujoye/EbZwglF38apArkFuBJ7VmU4BpwtrqjEBwbAcTioMwOe_TA?e=1GRHwK)
   1. Used for data cleaning
-  2. Used for manipulation, advanced analysis.
+  2. Used for manipulation, advanced analysis
   3. Used for Analysis and data visualization
   
  _**We explored functions like VLOOKUP, IF statements, pivot tables, conditional formatting, and data visualization tools such as charts and graphs to interpret datasets.**_
 
-- **SQL**:Structured Query Language (SQL)
+- **SQL**:Structured Query Language (SQL)[Download Here]()
   1. It was a key tool for querying databases
   2. Performing data extraction
   3. Filtering, aggregation
   4. Conducting relational database analysis.
   
-_ **This allowed us to efficiently work with large datasets and gain deeper insights.**
+ **This allowed us to efficiently work with large datasets and gain deeper insights.**
 _
 - **GitHub**: A version control platform used for managing and sharing our projects. We created repositories to track progress, organize code, and collaborate.
 
