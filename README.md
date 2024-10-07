@@ -9,7 +9,7 @@ This repository showcases my journey through the Ladies in Tech Africa (LITA) Da
 
 - **SQL**: Database querying, filtering, joins, and aggregation to extract actionable insights.
 
-  - **Data Insights**: Reports summarizing key findings and data-driven recommendations.
+ - **Data Insights**: Reports summarizing key findings and data-driven recommendations.
 
 This collection highlights my ability to analyze data, solve real-world problems, and present meaningful insights.
 
@@ -19,6 +19,7 @@ The datasets used in this repository come from a variety of publicly available s
 Notable data sources include:
 
 **Public datasets**: Available through online platforms like Kaggle, government databases, and academic resources.
+
 **Sample datasets**: Provided as part of LITA's curriculum for hands-on learning and practical application of Excel and SQL techniques.
 
 Each project folder includes the corresponding dataset, along with a brief description of its origin and relevance to the specific analysis.
