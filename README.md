@@ -1,2 +1,3 @@
 # LITA_Class_Documentation
-This is where i document my first project while learning Data Analysis with Incubator Hub
+
+### Project Title: Data Analytics Mastery: A Journey with LITA
